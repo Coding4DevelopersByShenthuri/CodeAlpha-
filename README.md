@@ -1,0 +1,1 @@
+A language Translator Tool, assigned by Code Alpha that translate text from one language to another. Used machine translation techniques and pre-trained models like Google translate API or Microsoft Translator API to translate text . 
